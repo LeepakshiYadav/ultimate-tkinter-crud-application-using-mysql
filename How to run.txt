@@ -1,0 +1,5 @@
+Install mysql
+Provide correct database connection details
+Install dependencies(tkinter mysql.connector-python, tkinter pillow)
+Run the code(Tables would automatically be created)
+Admin needs to be added manually by DB manager
